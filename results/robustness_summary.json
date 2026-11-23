@@ -1,0 +1,7 @@
+{
+  "t_mip_mean": 752.4618159336471,
+  "t_random_allocation_mean": 786.5289020973,
+  "gain": 0.04331320320564458,
+  "share_of_draws_mip_faster": 0.997,
+  "n_draws": 2000
+}
